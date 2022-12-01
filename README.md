@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Kevin</h1>
-<h3 align="center">I'm a driven university graduate with proven analytical, critical, and creative thinking skills, specialising in Cyber Security and Forensics with a keen interest in Computer Science. Motivated to be part of a team and make a difference.</h3>
+<h3 align="center">I'm a university graduate with proven analytical, critical, and creative thinking skills, specialising in Cyber Security and Forensics with a keen interest in Computer Science. Motivated to be part of a team and make a difference.</h3>
 
 - 🔭 I’m currently working on a personal website
 
